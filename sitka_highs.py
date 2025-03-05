@@ -14,3 +14,4 @@ for row in reader:
     highs.append(high)
 
 print(highs)
+print("New commit")
